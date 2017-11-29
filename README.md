@@ -8,7 +8,7 @@ Date: July 26, 2016
 
 ### Agenda
 * [Szymon Święcki — DIY: czyli nasz lab do testowania wydajności [PL]](talks/1/diy-lab)
-* [Jakub Słociński — Podstawy wysokiej dostępności w sieciach: agregacja linków [PL]](talks/1/podstawy wysokiej dostępności w sieciach - agregacja łączy.pptx)
+* [Jakub Słociński — Podstawy wysokiej dostępności w sieciach: agregacja linków [PL]](talks/1/podstawy-wysokiej-dostępności-w-sieciach-agregacja-łączy.pptx)
 
 
 ## [#2](2/)
