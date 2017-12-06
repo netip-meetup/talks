@@ -57,8 +57,8 @@ https://netip.me/6
 Date: November 16, 2017
 
 ### Agenda
-* [Jakub Słociński (ovh.pl) — Efficient routing on multi-socket x86 machines](6/x86_efficient_routing_EN.pdf)
-* [Nicolas Harnois (6wind) — Evolution of the mobile network towards Network Function Virtualization](6/Mobile_network_evolution_towards_NFV.pdf)
+* [Jakub Słociński (ovh.pl) — Efficient routing on multi-socket x86 machines](talks/6/x86_efficient_routing_EN.pdf)
+* [Nicolas Harnois (6wind) — Evolution of the mobile network towards Network Function Virtualization](talks/6/Mobile_network_evolution_towards_NFV.pdf)
 
 
 ## [#7](7/)
